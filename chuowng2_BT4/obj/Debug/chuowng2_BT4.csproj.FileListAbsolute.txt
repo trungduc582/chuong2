@@ -1,0 +1,6 @@
+f:\users\ducnt\documents\visual studio 2015\Projects\chuowng2\chuowng2_BT4\bin\Debug\chuowng2_BT4.exe.config
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuowng2\chuowng2_BT4\bin\Debug\chuowng2_BT4.exe
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuowng2\chuowng2_BT4\bin\Debug\chuowng2_BT4.pdb
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuowng2\chuowng2_BT4\obj\Debug\chuowng2_BT4.csprojResolveAssemblyReference.cache
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuowng2\chuowng2_BT4\obj\Debug\chuowng2_BT4.exe
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuowng2\chuowng2_BT4\obj\Debug\chuowng2_BT4.pdb

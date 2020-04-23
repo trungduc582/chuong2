@@ -1,0 +1,6 @@
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuowng2\chuong2_BT5\bin\Debug\chuong2_BT5.exe.config
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuowng2\chuong2_BT5\bin\Debug\chuong2_BT5.exe
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuowng2\chuong2_BT5\bin\Debug\chuong2_BT5.pdb
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuowng2\chuong2_BT5\obj\Debug\chuong2_BT5.csprojResolveAssemblyReference.cache
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuowng2\chuong2_BT5\obj\Debug\chuong2_BT5.exe
+F:\Users\DucNT\Documents\Visual Studio 2015\Projects\chuowng2\chuong2_BT5\obj\Debug\chuong2_BT5.pdb
